@@ -1,3 +1,6 @@
+thtml{
+    background-image: url(https://media.istockphoto.com/id/453077945/photo/aerial-view-of-the-glowing-earth.jpg?s=612x612&w=0&k=20&c=Wo7Pg8s-qiJb9nKrRo-TzL0a95qwDz3Vvk5THHX0oWw=)
+}
 * {
     margin: 0;
     padding: 0;
@@ -231,4 +234,5 @@ body {
     font-size: 14px;
     margin-top: 10px;
     display: none;
+
 }
