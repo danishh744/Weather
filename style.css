@@ -1,5 +1,10 @@
 html{
-    background-image: url(https://media.istockphoto.com/id/453077945/photo/aerial-view-of-the-glowing-earth.jpg?s=612x612&w=0&k=20&c=Wo7Pg8s-qiJb9nKrRo-TzL0a95qwDz3Vvk5THHX0oWw=)
+    background-image: url(https://media.istockphoto.com/id/453077945/photo/aerial-view-of-the-glowing-earth.jpg?s=612x612&w=0&k=20&c=Wo7Pg8s-qiJb9nKrRo-TzL0a95qwDz3Vvk5THHX0oWw=);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
 }
 * {
     margin: 0;
@@ -7,11 +12,6 @@ html{
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
-
-body {
-    background: #222;
-}
-
 .card {
     width: 90%;
     max-width: 470px;
@@ -236,4 +236,5 @@ body {
     display: none;
 
 }
+
 
